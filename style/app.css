@@ -1,0 +1,21 @@
+
+body {
+	background: #000000;
+}
+
+.button {
+	background: #00ffff;
+	margin: 1em;
+	cursor: pointer;
+
+}
+
+.button:active {
+	background: #0000ff;
+}
+
+.textcontainer {
+	margin-right: auto;
+	margin-left: auto;
+	width: 700px;
+}
